@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lesson02.vcxproj, Lesson03.vcxproj, Lesson04.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Demo.cpp
+C:\Users\Kid Onfire\Documents\LuxuryRoom\vs\LuxuryRoom\Demo.cpp(233,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Kid Onfire\Documents\LuxuryRoom\vs\LuxuryRoom\Demo.cpp(328,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Kid Onfire\Documents\LuxuryRoom\vs\LuxuryRoom\Demo.cpp(423,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Kid Onfire\Documents\LuxuryRoom\vs\LuxuryRoom\Demo.cpp(517,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Kid Onfire\Documents\LuxuryRoom\vs\LuxuryRoom\Demo.cpp(612,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Kid Onfire\Documents\LuxuryRoom\vs\LuxuryRoom\Demo.cpp(708,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Kid Onfire\Documents\LuxuryRoom\vs\LuxuryRoom\Demo.cpp(940,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Kid Onfire\Documents\LuxuryRoom\vs\LuxuryRoom\Demo.cpp(1034,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Kid Onfire\Documents\LuxuryRoom\vs\LuxuryRoom\Demo.cpp(1137,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Kid Onfire\Documents\LuxuryRoom\vs\LuxuryRoom\Demo.cpp(1239,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+  LuxuryRoom.vcxproj -> C:\Users\Kid Onfire\Documents\LuxuryRoom\vs\LuxuryRoom\Debug\LuxuryRoom.exe

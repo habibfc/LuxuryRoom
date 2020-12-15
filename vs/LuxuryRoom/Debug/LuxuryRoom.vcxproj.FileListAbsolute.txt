@@ -1,0 +1,2 @@
+C:\Users\Kid Onfire\Documents\LuxuryRoom\vs\LuxuryRoom\Debug\LuxuryRoom.exe
+C:\Users\Kid Onfire\Documents\LuxuryRoom\vs\LuxuryRoom\Debug\LuxuryRoom.pdb
